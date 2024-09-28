@@ -1,0 +1,16 @@
+
+1. **Why did you choose the tools, libraries, and language?**
+   I chose Node.js and Express because it is lightweight and allows for fast development of APIs. The choice of an in-memory array makes the solution simple for the current scope.
+
+2. **What are the advantages and disadvantages of your solution?**
+   Advantages:
+   - Simple to implement and run.
+   - Scalable by replacing the in-memory array with a database.
+   
+   Disadvantages:
+   - Not persistent (data is lost on server restart).
+   - Sorting on every spend could be optimized with a better data structure.
+
+3. **Favorite Project?**
+   My favorite project so far has been developing a REST API for tracking personal goals, where I had to integrate third-party APIs to get insights on user progress.
+
